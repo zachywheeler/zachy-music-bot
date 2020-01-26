@@ -13,5 +13,5 @@ then setup a config.json with
 "token": "(your discord bot token)"
 "googletoken":"(your youtube token)"
 
-it plays, pauses, resumes, stops, searches youtube, and clears chat.
+it plays, pauses, resumes, stops, searches youtube, and clears chat
 
